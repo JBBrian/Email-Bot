@@ -1,2 +1,2 @@
-# emailInsulter
-Bot that picks random corny insult from .txt and emails target
+# Email insults
+Program that picks a random corny insult from .txt and emails targetted friend.
